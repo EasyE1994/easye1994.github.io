@@ -1,0 +1,22 @@
+p{
+    color: gray;
+    color: #ff11ff;
+    color: rgb(15, 222, 87);
+    color: rgba(27, 73, 43, .7);
+
+}
+.redp{
+    color: aqua;
+}
+.fszp{
+font-size: 250%;
+
+}
+.secondDiv li a{
+    text-decoration: none;
+
+}
+.secondDiv li a:hover{
+    text-decoration: overline;
+
+}
