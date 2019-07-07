@@ -1,0 +1,29 @@
+body{
+    background: aqua;
+    background-image: url("../img/ava7patterns_pattern_1880.png");
+}
+
+
+.wrapper{
+    /*outline: 1px solid red;*/
+    width: 750px;
+    height: 480px;
+    padding: 25px;
+    border: 5px solid white;
+    margin: 25px auto;
+
+/*________*/
+ display:flex;
+ justify-content:center;
+ align-items:center;
+ /*background-color: red;*/
+background-image: url("../img/bg_s.jpg");
+}
+h1{
+    background-image: url("../img/logo.png");
+    background-repeat: no-repeat;
+    /*outline: 1px solid blue;*/
+    padding: 40px;
+    background-position: 0 41px;
+
+}
