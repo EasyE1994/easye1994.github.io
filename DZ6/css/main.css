@@ -8,7 +8,7 @@ body{
    background-image: url("../img/ava7patterns_pattern_1880.png");
 }
 
-h1{
+h1, h2, h3{
     display:flex;
     justify-content:center;
     align-items:center;
