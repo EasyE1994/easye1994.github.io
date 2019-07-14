@@ -20,7 +20,6 @@ body{
 background-image: url("../img/bg_s.jpg");
 }
 h1{
-    background-image: url("../img/logo.png");
     background-repeat: no-repeat;
     /*outline: 1px solid blue;*/
     padding: 40px;
