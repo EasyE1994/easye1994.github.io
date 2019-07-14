@@ -1,8 +1,5 @@
 body,{
-    font-family: 'Roboto Condensed', sans-serif;
-    font-size: 16px;
-    font-weight: 300;
-    color: cadetblue;    
+  
     background: aqua;
    background-image: url("../img/ava7patterns_pattern_1880.png");
 }
