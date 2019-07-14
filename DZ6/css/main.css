@@ -1,39 +1,43 @@
-h4 {
-    color: darkgreen;
-    margin-left: 500px;
-    font-size: 16pt;
-    font-style: italic;
-    font-style: oblique;
-    font-family: fantasy;
-    }
-h3 {
-    color: maroon;
-    margin-left: 500px;
-    font-size: 16pt;
-    font-style: italic;
-    font-style: oblique;
-    font-family: inherit;
-    margin-top: 5%
-    }
-.redp{
-    color: aqua;
-
+body, *{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    color: cadetblue;    
+    background: aqua;
+    background-image: url("");
 }
-.fszp{
-font-size: 250%;
-
+h1{
+    display:flex;
+    justify-content:center;
+    align-items:center;
 }
-.secondDiv li a{
-    text-decoration: none;
-
+h1, h2, h3 {
+    font-size: 24px;
+    font-weight: 700;
 }
-.secondDiv li a:hover{
+
+.cards__img{
+    color: grey;
+}
+
+.cards__img:hover{
     color: red;
-
+    font-weight: bold;
+    
 }
+
+.wrapper__main{
+    width: 850px;
+    margin: 0 auto;
+}
+
 .wrapper{
- outline: 1px solid red;
- height: 400px;
- width: 800px;
- margin: 15px auto;
+    outline: 1px solid red;
+    height: 400px;
+    width: 800px;
+    margin: 15px auto;
+}
+
+.img__scrin{
+    width: 100%;
 }
